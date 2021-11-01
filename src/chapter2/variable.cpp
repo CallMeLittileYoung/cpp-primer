@@ -2,7 +2,7 @@
 #include <iostream>
 
 /**
- * 有无符号类型变量时，结果也是无符号的aa bb cc
+ * 有无符号类型变量时，结果也是无符号的aa bb cc dd
  */
 int main(void) {
 
